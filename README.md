@@ -10,7 +10,7 @@ javac vural_p2.java
 Run the program: Once the code is successfully compiled, run the program by executing the following command:
 
 
-java vural_p2 [conversionType] [inputFilename] [outputFilename]
+    java vural_p2 [conversionType] [inputFilename] [outputFilename]
 
 Replace [conversionType] with either "b2t" (for binary to text conversion) or "t2b" (for text to binary conversion). Specify [inputFilename] as the name of the file containing the input data, and [outputFilename] as the desired name for the output file.
 
