@@ -18,7 +18,7 @@ For example, to convert binary data to text format, use the following command:
 
 
 
-java vural_p2 b2t input.bin output.txt
+    java vural_p2 b2t input.bin output.txt
 
 And to convert text data to binary format, use:
 
