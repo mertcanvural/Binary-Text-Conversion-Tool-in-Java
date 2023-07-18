@@ -5,7 +5,7 @@
 
 Compile the Java source code: Open a command-line interface or terminal and navigate to the directory containing the source code file (vural_p2.java). Use the Java compiler (javac) to compile the code by executing the following command:
 
-javac vural_p2.java
+    javac vural_p2.java
 
 Run the program: Once the code is successfully compiled, run the program by executing the following command:
 
