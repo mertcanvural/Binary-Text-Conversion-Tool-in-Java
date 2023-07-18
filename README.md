@@ -27,4 +27,5 @@ And to convert text data to binary format, use:
 
 View the converted data: After the program finishes running, you can find the converted data in the specified output file. The binary data will be written in binary format, while the text data will be written in a human-readable text format.
 
+# Description
 The Binary-Text Conversion Tool project provides a convenient way to convert data between binary and text formats. It supports various data types such as short, int, long, float, double, string, int array, and double array. By following the instructions above and providing the appropriate command-line arguments, you can easily convert data from one format to another, enabling seamless interoperability and data manipulation in your Java applications.
