@@ -1,4 +1,4 @@
-# Sophomere Year Class Project September - 2023
+# Sophomere Year Class Project September - 2022
 
 
 ## To run the Binary-Text Conversion Tool project in Java, follow the instructions below:
